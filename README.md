@@ -1,12 +1,70 @@
-# React + Vite
+<<<<<<< HEAD
+📦 quick-react-kit
+A lightweight, plug-and-play project starter powered by React + Vite + Tailwind CSS v3 + Axios + Prettier — designed to help developers get up and running instantly with a clean and modern dev environment.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🔥 Features
+⚛️ React + Vite – Lightning-fast dev environment
 
-Currently, two official plugins are available:
+🎨 Tailwind CSS v3 – No v4 dependency headaches
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📡 Axios – Pre-installed for API requests
 
-## Expanding the ESLint configuration
+🎯 Prettier – Consistent code formatting
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧹 Clean folder structure – Minimal, ready for real-world projects
+
+🚀 Getting Started
+
+# clone the starter kit using degit 
+ npx degit yourusername/quick-react-kit my-app
+
+Replaceyourusername with your GitHub username.
+
+# Move into your new project folder
+cd my-app
+
+# Install all dependencies
+npm install
+
+# Start the development server
+npm run dev
+
+
+📁 Folder Structure
+
+src/
+├── App.jsx
+├── main.jsx
+├── assets/
+├── components/
+├── pages/
+├── styles/
+└── index.css
+assets/ – For images or static files
+
+components/ – Reusable UI components
+
+pages/ – Top-level views/pages
+
+styles/ – Global or custom styles (if needed)
+
+✅ Prettier Config
+Includes .prettierrc with basic opinionated defaults.
+
+To auto-format on save:
+
+Install the Prettier VS Code extension.
+
+Enable "Format on Save" in your VS Code settings.
+
+💡 Why Use quick-react-kit?
+Stop wasting time setting up the same tools from scratch. This kit gives you:
+
+A fast, production-ready base setup
+
+All essential tools pre-installed
+
+Zero configuration stress
+
+Just clone, install, and build.
+=======
