@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 📦 quick-react-kit
 A lightweight, plug-and-play project starter powered by React + Vite + Tailwind CSS v3 + Axios + Prettier — designed to help developers get up and running instantly with a clean and modern dev environment.
 
